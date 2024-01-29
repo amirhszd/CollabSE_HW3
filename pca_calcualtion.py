@@ -53,5 +53,3 @@ def main():
     print("Original Data Shape:", random_data.shape)
     print("Principal Components Shape:", pca_result.shape)
 
-
-main()
