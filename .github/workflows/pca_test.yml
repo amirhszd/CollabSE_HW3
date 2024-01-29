@@ -1,4 +1,4 @@
-name: PCA Size Test
+name: run pca_test.py
 
 on:
   push:
